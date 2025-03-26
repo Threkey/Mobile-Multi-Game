@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: b99939ad742ab3843b03e0da6d598782
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 212921
+  packageName: 2D RPG topdown tilesets - pixelart assets FULL BUNDLE
+  packageVersion: 3.1.0
+  assetPath: Assets/Gif/Ruccho/FangAutoTile/Scripts/Editor/FangAutoTilePackerEditor.cs
+  uploadId: 700102

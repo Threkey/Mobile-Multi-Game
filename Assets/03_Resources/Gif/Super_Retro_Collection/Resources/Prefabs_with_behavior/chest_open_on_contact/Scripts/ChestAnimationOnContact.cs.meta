@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 7b5f07fe69d669544a96eeb6a472e402
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 212921
+  packageName: 2D RPG topdown tilesets - pixelart assets FULL BUNDLE
+  packageVersion: 3.1.0
+  assetPath: Assets/Gif/Super_Retro_Collection/Resources/Prefabs_with_behavior/chest_open_on_contact/Scripts/ChestAnimationOnContact.cs
+  uploadId: 700102
